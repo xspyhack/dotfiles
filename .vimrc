@@ -90,3 +90,6 @@ let g:syntastic_ignore_files=[".*\.py$"] "ignore the syntax test to python files
 "Do not ask when starting vim
 let g:ycm_confirm_extra_conf = 0
 let g:syntastic_always_populate_loc_list = 1
+
+" fuck buftype
+set bt=acwrite
