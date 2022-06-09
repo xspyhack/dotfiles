@@ -92,4 +92,4 @@ let g:ycm_confirm_extra_conf = 0
 let g:syntastic_always_populate_loc_list = 1
 
 " fuck buftype
-set bt=acwrite
+setl bt=acwrite
